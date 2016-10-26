@@ -1,0 +1,19 @@
+   在目录下创建package.json
+   cd e:\gulppdemo
+   e:
+   npm install -g gulp
+
+
+   gulp-v 查看是否有CLI
+
+   然后运行 npm install gulp-sass gulp-autoprefixer gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache --save-dev
+
+
+
+   写完代码后运行  gulp  方法名
+
+
+   安装less  css预处理编辑工具
+
+   命令行用法：
+   	npm install -g less  安装less的命令
